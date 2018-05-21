@@ -1,5 +1,7 @@
 # SimpleNumbers
 
+[![GitHub version](https://badge.fury.io/gh/ravimariya%2Fsimple_numbers.svg)](https://badge.fury.io/gh/ravimariya%2Fsimple_numbers)
+
 SimpleNumbers is a simple Gem to format numbers from number to usd, indian rs., number to percentage, number to phone, number to storage size and number to human number easily from view, controller or model
 
 ## Installation
