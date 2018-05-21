@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "simple_numbers"
   spec.version       = SimpleNumbers::VERSION
   spec.authors       = ["Ravi Mariya"]
-  spec.email         = ["ravimariya9492@gmail.com"]
+  spec.email         = ["rm9492@outlook.com"]
 
   spec.summary       = 'Gem to format numbers'
   spec.description   = 'Gem to format numbers'
