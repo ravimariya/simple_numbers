@@ -26,8 +26,9 @@ Or install it yourself as:
 123456789.inr #=>  "Rs. 123,456,789.00"
 123456789.usd # => "$123,456,789.00"
 1234567890.phone # => "123-456-7890"
-12345.size #=> "12.1 KB"
+12345.storage #=> "12.1 KB"
 100.percentage #=> "100.000%"
+123456789.human_number #=> "123 Million"
 ```
 for more options [Number Helper](http://api.rubyonrails.org/classes/ActionView/Helpers/NumberHelper.html)
 

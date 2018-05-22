@@ -42,7 +42,7 @@ module SimpleNumbers
 
       # Format Size
 
-      def size(**options)
+      def storage(**options)
         HELPER.number_to_human_size(self, options)
       end
 
@@ -56,3 +56,4 @@ module SimpleNumbers
 end
 Fixnum.send :include, SimpleNumbers::Format
 Float.send :include, SimpleNumbers::Format
+String.send :include, SimpleNumbers::Format
